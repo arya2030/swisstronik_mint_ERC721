@@ -9,7 +9,7 @@ link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/arjuna2025/swisstronik_mint_ERC-721.git
+git clone https://github.com/arya2030/swisstronik_mint_ERC721
 ```
 
 ```
